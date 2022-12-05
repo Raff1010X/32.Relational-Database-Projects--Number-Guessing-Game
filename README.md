@@ -1,4 +1,4 @@
-# freeCodeCamp Relational Database certification
+# [freeCodeCamp Relational Database certification](https://www.freecodecamp.org/learn/relational-database/)
 
 ## Learn SQL by Building a Student Database project
 
